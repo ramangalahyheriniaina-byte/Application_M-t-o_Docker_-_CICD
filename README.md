@@ -84,7 +84,7 @@ application-meteo-docker-cicd
 Clone the repository:
 
 ```bash
-git clone https://github.com/ramangalahyheriniaina-byte/Application_M-t-o_Docker_-_CICD
+git clone https://github.com/ramangalahyheriniaina-byte/application-meteo-docker-cicd
 cd application-meteo-docker-cicd
 ```
 
